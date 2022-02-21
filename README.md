@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marceloskn
 - 👀 I’m interested in learn python and java.
 - 🌱 I’m currently learning python.
-- speaks Portuguese(native) and English.
+- 😀 Speaks Portuguese(native) and English.
 - 📫 marceloleonardo121@gmail.com
 
 <!---
