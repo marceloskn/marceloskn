@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @marceloskn
 - 👀 I’m interested in learn python and java.
-- 🌱 I’m currently learning python, java and english.
+- 🌱 I’m currently learning python, java, english and motion design.
+- 😎 Video editor.
 - 😀 Portuguese(native) and English speaker.
 - 📫 marceloleonardo121@gmail.com
 
